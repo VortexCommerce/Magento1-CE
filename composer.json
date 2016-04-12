@@ -7,10 +7,9 @@
       "email": "github@vortexcommerce.com",
       "homepage": "http://www.vortexcommerce.com",
       "role": "Developer"
-
     }
   ],
   "minimum-stability": "alpha",
   "prefer-stable": true,
-  "require": {}
+  "require": { "composer/installers": "~1.0" }
 }
