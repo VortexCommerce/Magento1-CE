@@ -9,6 +9,7 @@
       "role": "Developer"
     }
   ],
+  "type": "library",
   "minimum-stability": "alpha",
   "prefer-stable": true,
   "require": { "composer/installers": "~1.0" }
